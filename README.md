@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://i.imgur.com/FKLb92H.png" />
+</div>
+
+<div align="center">
   <h1>Olá 👋, me chamo Matheus Morais</h1>
   <h3>Um desenvolvedor apaixonado do Brasil</h3>
 </div>
@@ -49,6 +53,9 @@
     </a>
     <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
+    </a>
+    <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
     </a>
   </p>
 </div>
