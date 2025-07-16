@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá 👋, eu sou o Matheus Morais</h1>
+  <h1>Olá 👋, me chamo Matheus Morais</h1>
   <h3>Um desenvolvedor apaixonado do Brasil</h3>
 </div>
 
@@ -20,7 +20,7 @@
 <div>
   <h3>💻 Atualmente trabalhando em</h3>
   <ul>
-    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds Page</a></li>
+    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds</a></li>
   </ul>
 </div>
 
@@ -43,6 +43,12 @@
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discordjs" width="40" height="40"/>
     </a>
   </p>
 </div>
