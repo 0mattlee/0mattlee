@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/FKLb92H.png" />
-</div>
-
-<div align="center">
   <h1>Olá 👋, eu sou o Matheus Morais</h1>
   <h3>Um desenvolvedor apaixonado do Brasil</h3>
 </div>
