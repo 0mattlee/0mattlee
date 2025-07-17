@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.imgur.com/FKLb92H.png" />
-</div>
 
 <div align="center">
   <h1>Olá 👋, me chamo Matheus Morais</h1>
