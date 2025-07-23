@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/FKLb92H.png" />
-</div>
-
-<div align="center">
-  <h1>Olá 👋, eu sou o Matheus Morais</h1>
+  <h1>Olá 👋, me chamo Matheus Morais</h1>
   <h3>Um desenvolvedor apaixonado do Brasil</h3>
 </div>
 
@@ -24,7 +20,7 @@
 <div>
   <h3>💻 Atualmente trabalhando em</h3>
   <ul>
-    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds Page</a></li>
+    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds</a></li>
   </ul>
 </div>
 
