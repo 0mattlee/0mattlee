@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/FKLb92H.png" />
-</div>
-
-<div align="center">
   <h1>Hi 👋, I'm Matheus Morais</h1>
   <h3>A passionate developer from Brazil</h3>
 </div>
@@ -24,7 +20,7 @@
 <div>
   <h3>💻 Currently working on</h3>
   <ul>
-    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds Page</a></li>
+    <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds</a></li>
   </ul>
 </div>
 
