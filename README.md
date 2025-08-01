@@ -34,7 +34,7 @@
 <div>
   <h3>🛠️ Languages and Tools</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py,discord,unreal,blender,lua,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,py,discord,unreal,blender,lua,vscode,mongodb"/>
   </p>
 </div>
 
