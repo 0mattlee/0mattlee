@@ -23,6 +23,7 @@
 <div>
   <h3>💻 Currently working on</h3>
   <ul>
+    <li><a href="https://www.mochipet.com.br">Mochi Pet</a></li>
     <li><a href="https://invision-page.vercel.app">InVision</a></li>
     <li><a href="https://tarot-bot-page.vercel.app">Tarot Bot</a></li>
     <li><a href="https://mentat-builds-page.vercel.app">Mentat Builds</a></li>
